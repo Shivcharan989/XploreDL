@@ -1,0 +1,7 @@
+Predictive maintenance is determined based on the actual condition of the machine and its components also known as condition-based maintenance (CBM). 
+CBM suggests maintenance action only when there is evidence of abnormal behaviours from a component.
+
+We utilize the MEan Absolute error to detect the anomaly and identify the root cause(s).
+Anomaly score greater than a defined threshold is marked as an anomaly. 
+Analysing the corresponding data points to find the rows and columns with the higher error  give us the root cause or affected components. 
+
