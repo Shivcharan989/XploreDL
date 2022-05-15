@@ -1,0 +1,3 @@
+Summarize articles from the news and other materials. Using the job identifier "summarization," this summarising pipeline may now be loaded from pipeline(). 
+The models that this pipeline can use are models that have been 
+fine-tuned on a summarization task, which is currently, ‘bart-large-cnn’, ‘t5-small’, ‘t5-base’, ‘t5-large’, ‘t5-3b’, ‘t5-11b’.
